@@ -3,7 +3,6 @@
 A content-based Movie Recommender System built using Machine Learning and deployed with Streamlit.
 
 🚀 Live Demo
-
 👉 https://movie-recommender-jjcgdasvemjwrrdgkrzoec.streamlit.app/
 
 📌 Features
